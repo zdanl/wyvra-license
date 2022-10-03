@@ -1,7 +1,6 @@
 Wyvra License
 =============
 Version: 0.1
-The following is a legally binding contract that will never be enforced.
 
 *******************************************************************************
 Fork of the MIT License
