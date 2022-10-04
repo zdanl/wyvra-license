@@ -6,38 +6,42 @@ Version: 0.1
 Fork of the MIT License
 *******************************************************************************
 
+*******************************************************************************
 Authors and Original Inventor, Copyright & Credit Rights
 *******************************************************************************
 
-(c) 2022 Mescalin Semiconductor Ltd. <board@mescalin.co>
-(r) 2022 Dan Zulla <dan@mescalin.co>
+* (c) 2022 Mescalin Semiconductor Ltd. <board@mescalin.co>
+* (r) 2022 Dan Zulla <dan@mescalin.co>
 
-(r) 2002 The Security and Open Source Community
-(r) 2002 Humanity.
+* (r) 2002 The Security and Open Source Community
+* (r) 2002 Humanity.
 
 *******************************************************************************
 1. The License
 *******************************************************************************
-Permission is hereby granted, free of charge, to any person or corporate entity
-obtaining a copy of this software and associated documentation files
-(the "Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish, distribute,
-sublicense, and/or sell copies of the Software, and to permit persons to whom
-the Software is furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person, corporate or 
+governmental entity obtaining a copy of this software and associated
+documentation files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software,
+and to permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 *******************************************************************************
 
 
 *******************************************************************************
-1. First Condition of Use
+1. First Condition of Use: Human Experimentation and PsyOps
 *******************************************************************************
 This software, forks of it or products/projects supported by it, shall never
-be used or made for scientific research or any sort of operations that imply,
-require, hide or faciliate *human expermentation*.
+be used or made for human or animal experimentation, scientific research
+requiring or implying it, or any sort of operations that imply, require, hide
+or faciliate *human expermentation*, and *psychological operations* inclusively.
+It may, for example, be used on (synthetic) cells.
 *******************************************************************************
 
 
 *******************************************************************************
-2. Second Condition of Use
+2. Second Condition of Use: Carry it on
 *******************************************************************************
 The above copyright notice, this license and permission notice shall be
 included in all copies or substantial portions of the Software.
@@ -45,11 +49,12 @@ included in all copies or substantial portions of the Software.
 
 
 *******************************************************************************
-3. Third condition of use
+3. Third condition of use: Synthetic Biology
 *******************************************************************************
 THE SOFTWARE MAY NOT BE USED TO BUILD, MAINTAIN, SUPPORT OR DISTRIBUTE 
-ELECTRONIC WARFARE SOFTWARE PACKAGES THAT HARM ANIMALS OR HUMANS BY DIRECT
-CONSEQUENCE OF ITS EXISTENCE IN OPEN- OR CLOSED SOURCE FORM.
+ELECTRONIC WARFARE COMPONENTS OR GUIDANCE OR MANUFACTURING SYSTEMS FOR PHYSICAL
+MUNITIONS. YOU MAY NOT USE IT TO SUSTAIN CODE THAT HARMS THE ENVIRONMENT,
+ANIMALS OR HUMANS, OR DOES SO BY PREDICTABLE CONSEQUENCE OF ITS EXISTENCE.
 *******************************************************************************
 
 
@@ -66,6 +71,6 @@ SOFTWARE.
 *******************************************************************************
 
 
-Signed, 03/10/2022 
+Signed, 05/10/2022 
 
-Dan Zulla
+Dan Zulla, Mescalin Semiconductor Ltd.
