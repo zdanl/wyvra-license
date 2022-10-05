@@ -13,9 +13,6 @@ Authors and Original Inventor, Copyright & Credit Rights
 * (c) 2022 Mescalin Semiconductor Ltd. <board@mescalin.co>
 * (r) 2022 Dan Zulla <dan@mescalin.co>
 
-* (r) 2002 The Security and Open Source Community
-* (r) 2002 Humanity.
-
 *******************************************************************************
 1. The License
 *******************************************************************************
