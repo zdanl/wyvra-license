@@ -3,55 +3,54 @@ Wyvra License
 Version: 0.1
 
 *******************************************************************************
-Fork of the MIT License
+Authors and Original Inventors, Contributors & Credits
 *******************************************************************************
 
-*******************************************************************************
-Authors and Original Inventor, Copyright & Credit Rights
-*******************************************************************************
+* (ownership) 2022 Mescalin Semiconductor Ltd. <board@mescalin.co>
 
-* (c) 2022 Mescalin Semiconductor Ltd. <board@mescalin.co>
-* (r) 2022 Dan Zulla <dan@mescalin.co>
+* (author)    2022 Dan Zulla <dan@mescalin.co>
 
 *******************************************************************************
-1. The License
+1. Legal Software License & Requirements for Qualified/Certified Use
 *******************************************************************************
-Permission is hereby granted, free of charge, to any person, corporate or 
-governmental entity obtaining a copy of this software and associated
-documentation files (the "Software"), to deal in the Software without
-restriction, including without limitation the rights to use, copy, modify,
+Permission and candidacy for certification is hereby granted, free of charge,
+to any person, corporate or governmental entity; obtaining a copy of this
+software, in binary form and/or computational human-readable source code form,
+including textual documentation, configuration or serialization files
+readable configuration/serialization files (the "Sources", "Documentation", or
+"Software"), to deal in it on the firm condition and
+commitment of ethical and environmentally considerate use. Continious inclusion
+of this license in any software or significant portions of its code, or other
+software created by it, is required. Unlimted rights to use, copy, modify,
 merge, publish, distribute, sublicense, and/or sell copies of the Software,
-and to permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
+Documentation or Sources, are thereby granted.
 *******************************************************************************
 
 
 *******************************************************************************
-1. First Condition of Use: Human Experimentation and PsyOps
+1. Ethical Use 1: Scientific considerations: Living Things & PsyOps
 *******************************************************************************
 This software, forks of it or products/projects supported by it, shall never
-be used or made for human or animal experimentation, scientific research
-requiring or implying it, or any sort of operations that imply, require, hide
-or faciliate *human expermentation*, and *psychological operations* inclusively.
-It may, for example, be used on (synthetic) cells.
+be used for human/animal experimentation, scientific research requiring such,
+or any sort of operations or development efforts implying, requiring, outsource
+hide or faciliate invasion of medicinal ethics or neural integrity.
+Psychological operations and thereby a form of violence or warfare against
+civilians, ethnic, religious or
+political groups, or mass population. It may, for example, be used to automate
+or implement, describe or facilitate operating on (synthetic) cells in the
+field of biology. It may not be used for the abuse of Artifical Intelligence
+affecting humanity at large, or efforts that spy on or negatively affect large
+portions of the Internet or electronics connected to it.
 *******************************************************************************
 
 
 *******************************************************************************
-2. Second Condition of Use: Carry it on
+2. Ethical Use 2: Military considerations
 *******************************************************************************
-The above copyright notice, this license and permission notice shall be
-included in all copies or substantial portions of the Software.
-*******************************************************************************
+This software may not be used to support or build maintain, guide, accelerate
+or harden electronic warfare components, physical munitions, or explosive,
+chemical or biological weapons of (mass) destruction.
 
-
-*******************************************************************************
-3. Third condition of use: Synthetic Biology
-*******************************************************************************
-THE SOFTWARE MAY NOT BE USED TO BUILD, MAINTAIN, SUPPORT OR DISTRIBUTE 
-ELECTRONIC WARFARE COMPONENTS OR GUIDANCE OR MANUFACTURING SYSTEMS FOR PHYSICAL
-MUNITIONS. YOU MAY NOT USE IT TO SUSTAIN CODE THAT HARMS THE ENVIRONMENT,
-ANIMALS OR HUMANS, OR DOES SO BY PREDICTABLE CONSEQUENCE OF ITS EXISTENCE.
 *******************************************************************************
 
 
